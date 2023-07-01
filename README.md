@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **AWS, GCP, Azure, DevOps**
 
-- 📫 How to reach me at **mbandigithub@gmail.com**
+- 📫 You can reach me at **mbandigithub@gmail.com**
 
 <p align="left">
 </p>
