@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/38b988c1f94cea8d6c68e5251dd5a09d38b4bf5761ebb3d667456b1b5fd9c74d/68747470733a2f2f73696d706c65636f64696e672e6465762f6173736574732f6465766f70732e676966)](https://awanmbandi.io)
+[![MasterHead](https://github.com/awanmbandi/realworld-cicd-pipeline-project/blob/zdocs/images/awanmbandi-github-profile-display.gif)](https://awanmbandi.io)
 <h1 align="center">Hi 👋, I'm Mbandi</h1>
 <h3 align="center">A passionate Multi-Cloud Architect and DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=1693440000&v=beta&t=WgbSJ5BFoXfNhvIjbrdNRRdnwDoZ98-qcyvDwmc19Vo">
