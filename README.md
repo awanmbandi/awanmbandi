@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1679340545003/04ef510f-3ef1-40b7-b319-a233ee20d661.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)](https://awanmbandi.io)
+[![MasterHead](https://elastio.com/wp-content/uploads/2022/07/img-agility-pipelines.gif)](https://awanmbandi.io)
 <h1 align="center">Hi 👋, I'm Mbandi</h1>
 <h3 align="center">A passionate Multi-Cloud Architect and DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/awanmbandi/realworld-cicd-pipeline-project/blob/zdocs/images/image_processing20210909-14336-1tv04h.gif">
