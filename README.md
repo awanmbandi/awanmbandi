@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/awanmbandi/realworld-cicd-pipeline-project/blob/zdocs/images/awanmbandi-github-profile-display.gif)](https://awanmbandi.io)
-<h1 align="center">Hi 👋, I'm Mbandi</h1>
+<h1 align="center">Hi 😃, I'm Mbandi</h1>
 <h3 align="center">A passionate Multi-Cloud Architect and DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=1693440000&v=beta&t=WgbSJ5BFoXfNhvIjbrdNRRdnwDoZ98-qcyvDwmc19Vo">
 
