@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awanmbandi&label=Profile%20views&color=0e75b6&style=flat" alt="awanmbandi" /> </p>
 
-- 🔭 I’m currently working on **On AWS and GCP**
+- 🔭 I’m currently working on **AWS and GCP**
 
 - 🌱 I’m currently growing my expertise on **Azure, IBM and Next Generation Automation**
 
