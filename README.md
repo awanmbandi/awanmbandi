@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently growing my expertise on **Azure, IBM and Next Generation Automation**
 
-- 👯 I’m looking to collaborate on **GitHub and other Platforms**
+- 👯 I’m looking to collaborate on **GitHub**
 
 - 🤝 I’m willing and happy to **Help anytime**
 
-- 👨‍💻 You can find some of my projects here on GitHub [https://github.com/awanmbandi](https://github.com/awanmbandi)
+- 👨‍💻 You can find some of my projects here on GitHub
 
-- 💬 Ask me about **AWS, GCP, Azure DevOps**
+- 💬 Ask me about **AWS, GCP, Azure, DevOps**
 
 - 📫 How to reach me at **mbandigithub@gmail.com**
 
