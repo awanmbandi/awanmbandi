@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Multi-Cloud Architect and DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1912990/screenshots/6129020/media/5de7b1748ffb5977fc77840b16f939c5.gif">
 
-<p align="left"> <img src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=1693440000&v=beta&t=WgbSJ5BFoXfNhvIjbrdNRRdnwDoZ98-qcyvDwmc19Vo" alt="awanmbandi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=awanmbandi&label=Profile%20views&color=0e75b6&style=flat" alt="awanmbandi" /> </p>
 
 - 🔭 I’m currently working on **On AWS and GCP**
 
