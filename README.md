@@ -1,11 +1,12 @@
 [![MasterHead](https://github.com/awanmbandi/realworld-cicd-pipeline-project/blob/zdocs/images/awanmbandi-github-profile-display.gif)](https://awanmbandi.io)
 <h1 align="center">Hi 😃, I'm Mbandi</h1>
 <h3 align="center">A passionate Multi-Cloud Architect and DevOps Engineer</h3>
+
+[![Terraform](https://img.shields.io/badge/terraform-%2B%2060%20modules-blue?style=for-the-badge&logo=terraform&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=blueviolet)](https://github.com/binbashar?language=hcl) [![Open Source](https://img.shields.io/badge/open%20source-+140%20repos-blue?style=for-the-badge&logo=github&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=20c997)](https://github.com/binbashar)  [![Ref Architecture](https://img.shields.io/badge/ref%20architectures-+10%20stacks-blue?style=for-the-badge&logo=amazonaws&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=96f2d7)](https://github.com/topics/binbash-ref-architecture) [![Documentation](https://img.shields.io/badge/documentation-complete-blue?style=for-the-badge&logo=bookstack&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=22b8cf)](https://leverage.binbash.com.ar/)
+
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=1693440000&v=beta&t=WgbSJ5BFoXfNhvIjbrdNRRdnwDoZ98-qcyvDwmc19Vo">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awanmbandi&label=Profile%20views&color=0e75b6&style=flat" alt="awanmbandi" /> </p>
-
-[![Terraform](https://img.shields.io/badge/terraform-%2B%2060%20modules-blue?style=for-the-badge&logo=terraform&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=blueviolet)](https://github.com/binbashar?language=hcl) [![Open Source](https://img.shields.io/badge/open%20source-+140%20repos-blue?style=for-the-badge&logo=github&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=20c997)](https://github.com/binbashar)  [![Ref Architecture](https://img.shields.io/badge/ref%20architectures-+10%20stacks-blue?style=for-the-badge&logo=amazonaws&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=96f2d7)](https://github.com/topics/binbash-ref-architecture) [![Documentation](https://img.shields.io/badge/documentation-complete-blue?style=for-the-badge&logo=bookstack&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=22b8cf)](https://leverage.binbash.com.ar/)
 
 - 🔭 I’m currently working on **AWS and GCP**
 
