@@ -48,3 +48,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awanmbandi&show_icons=true&locale=en&theme=tokyonight" alt="awanmbandi" /></p>
 
+## ⚡ Top Repositories
+<a href="https://github.com/awanmbandi/realworld-cicd-pipeline-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kunchalavikram1427&repo=YouTube_Series&theme=buefy" />
+</a>
+<a href="https://github.com/awanmbandi/aws-real-world-projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kunchalavikram1427&repo=Docker_public&theme=buefy" />
+</a>
+
