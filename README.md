@@ -44,8 +44,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhyNmRvYWtudW4yYzU3NWFyNnRtdXBzcTlobDM4aTZ2ZHhmaTVmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHlrcWgxbXZ2aTJrcmloY2hkdXp6cXY3NnVndGVveTg0N2diOWI2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e8qvtPuCyKXI4qJK7d/giphy.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awanmbandi&label=Profile%20views&color=0e75b6&style=flat" alt="awanmbandi" /> </p>
 
 - 🔭 I’m currently working on **AWS and GCP**
