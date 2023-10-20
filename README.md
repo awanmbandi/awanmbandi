@@ -42,7 +42,7 @@
 ![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white)
 ![SonaCloud](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhyNmRvYWtudW4yYzU3NWFyNnRtdXBzcTlobDM4aTZ2ZHhmaTVmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awanmbandi&label=Profile%20views&color=0e75b6&style=flat" alt="awanmbandi" /> </p>
 
